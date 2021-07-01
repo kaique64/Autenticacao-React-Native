@@ -7,9 +7,13 @@ A API utiliza como banco de dados MongoDB e Express para facilitar o desenvolvim
 
 <h1> O que foi utilizado? </h1>
 <ul>
+  <h2> Mobile </h2>
+  <li> React Native </li>
+  <li> Expo </li>
+  <li> Typescript </li>
+  
+  <h2> API </h2>
   <li> Express </li>
   <li> MongoDB </li>
   <li> Mongoose </li>
-  <li> React Native </li>
-  <li> Typescript </li>
 </ul> 
