@@ -16,4 +16,5 @@ A API utiliza como banco de dados MongoDB e Express para facilitar o desenvolvim
   <li> Express </li>
   <li> MongoDB </li>
   <li> Mongoose </li>
+  <li> Typescript </li>
 </ul> 
